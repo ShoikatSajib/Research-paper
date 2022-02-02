@@ -4,12 +4,16 @@
 # Reflection of AI in Medicine
 
 Artificial intelligence is a branch of computer science capable of performing complex analysis of medical information. Their potential can be used in many clinical situations to make meaningful correlations with diagnostic, therapeutic, and prognostic data set results. At present AI is used in almost all cases in medical and healthcare sector. The use of AI can be seen in all the steps starting from the production of a drug to its management!  Moreover, because of AI, we can see all the digital content (smartwatches, AI health care etc) that has made our daily life better and easier. [1]
+
 AI is also providing jobs to many people every year.  The medical and medicine sector is also benefiting a lot from using AI.  According to Ascott, 2021, about 1 million jobs have been created through the use of AI in the health sector.
+
 It's obviously artificial intelligence has its advantages and risks for living beings and nations, but with better observation and proper apply, AI can greatly improve the health and medicine sector.
+
 
 # How AI is related with medicine
 
 The most regular role for AI in medical settings is clinical decision support and image analysis. Clinical decision support tools help providers make decisions about treatment, medication, mental health, and other patient needs by providing them with quick access to relevant information or research with their patient. In medical imaging, AI tools are being used to analyze medical tests, such as CT scans, X-rays, MRIs, and other images for wounds or other results that a human radiologist may miss. [2]
+
 
 # Benefits of AI in medicine
  ![original](https://user-images.githubusercontent.com/95344808/152221695-6dcd0f67-3352-4d66-8adb-643b0299833b.jpg)
@@ -29,8 +33,10 @@ A big potential way that AI can reduce costs across the healthcare industry. Som
 **Drug Discovery:**
 Artificial intelligence has the potential to make drug discovery faster, cheaper and more effective. Drug designers often use machine learning techniques to extract chemical information from large compound databases and to design drugs with important biological properties. Currently, dozens of health and pharma companies are using artificial intelligence to assist in drug discovery and reduce the long time process.
 
+
 # Risks of AI in medicine
 AI has proven to be effective in improving healthcare and drug administration. However, concerns have been raised about the ethical and legal implications of introducing AI into healthcare. These concerns include the risk of bias, lack of clarity of some AI algorithms, data privacy issues used for training AI models and security issues in clinical settings and responsibility for implementing AI. There are some ethical issues facing AI clinical applications. These include security, effectiveness, confidentiality, information and consent, right to make decisions, etc. [4]
+
 
 # The Future of Artificial Intelligence in the Healthcare Sector:
 Across the artificial intelligence (AI) industry, the way we communicate, receive information and receive products and services is changing. In healthcare, AI is already changing patient experiences, how physicians practice medicine, and how the pharmaceutical industry operates. The future of artificial intelligence in healthcare can range from simple to complex, from answering the phone to reviewing medical records, population health trends and analysis, therapeutic drug and device design, radiology imaging, clinical diagnosis and treatment planning. , And even talk to patients. This will reduce the risk perceived by healthcare providers and quickly begin to provide measurable improvement in patient outcomes and large-scale operational efficiency.
@@ -42,6 +48,7 @@ Across the artificial intelligence (AI) industry, the way we communicate, receiv
 Figure 2: History of AI with Medicine [2]
 
 Artificial Intelligence (AI) was first described in 1950; However, a number of limitations in early models hinder the widespread acceptance and application of the drug. In the early 2000's, the rise of deep learning overcame many of these limitations. Now that AI systems are capable of analyzing complex algorithms and self-learning, we have entered a new era in medicine where AI can be applied to clinical practice through risk assessment models, improving diagnostic accuracy and workflow efficiency. This article presents a brief historical perspective on the evolution of AI in the last few decades and the introduction and development of AI in medicine in recent years. A brief summary of the major applications of AI in gastroenterology and endoscopy is also presented, which will be reviewed in more detail in a few more articles in this issue of Gastrointestinal Endoscopy. [5]
+
 
 # Current limitations of AI in healthcare
 •	Problems related to early adoption
@@ -55,6 +62,7 @@ Artificial Intelligence (AI) was first described in 1950; However, a number of l
 •	Stakeholder complexity
 
 
+
 # Conclusion
 AI's commitment to the healthcare industry is evident in this literature. AI is on the way to becoming more effective on many levels, leading patients to better and faster results. Artificial intelligence, machine learning, assistance in deep learning surgery, early cancer diagnosis etc. can help us in proper care. There are a few things to consider when researching AI that are mentioned in this research paper. With recent advances in AI research and support and resources from the government, it is highly likely that the use of artificial intelligence in healthcare will increase significantly and there is huge potential for cost savings and improved quality of healthcare and medicine.
 
@@ -66,6 +74,7 @@ AI's commitment to the healthcare industry is evident in this literature. AI is 
 Shoikat Alam Sajib
 
 Matriculation number: 22100656
+
 
 # References:
 [1] Artificial intelligence in medicine AN Ramesh1 , C Kambhampati2 , JRT Monson1 , PJ Drew1 1 The University of Hull Academic Surgical Unit, Castle Hill Hospital, Cottingham, UK 2 Department of Computer Science, University of Hull, UK https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1964229/pdf/15333167.pdf

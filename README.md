@@ -1,6 +1,6 @@
  
 
-Reflection of AI in Medicine
+#Reflection of AI in Medicine
 
 Artificial intelligence is a branch of computer science capable of performing complex analysis of medical information. Their potential can be used in many clinical situations to make meaningful correlations with diagnostic, therapeutic, and prognostic data set results. At present AI is used in almost all cases in medical and healthcare sector. The use of AI can be seen in all the steps starting from the production of a drug to its management!  Moreover, because of AI, we can see all the digital content (smartwatches, AI health care etc) that has made our daily life better and easier. [1]
 AI is also providing jobs to many people every year.  The medical and medicine sector is also benefiting a lot from using AI.  According to Ascott, 2021, about 1 million jobs have been created through the use of AI in the health sector.

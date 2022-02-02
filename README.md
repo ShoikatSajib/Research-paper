@@ -86,9 +86,10 @@ Matriculation number: 22100656
 [4] Perspectives, The future of artificial intelligence in health care, Laura Craft, Emerging Applications of Ai for Healthcare Providers, GARTNER, June 30 2017, accessed June 24, 2019 https://www2.deloitte.com/us/en/pages/life-sciences-and-health-care/articles/future-of-artificial-intelligence-in-health-care.html
 
 [5] History of artificial intelligence in medicine Vivek Kaul, MD, FASGE,1 Sarah Enslin, PA-C,1 Seth A. Gross, MD, FASGE2 Rochester, New York, New York, USA https://www.giejournal.org/article/S0016-5107(20)34466-7/pdf
-Artificial Intelligence in Healthcare: the future is amazing, Codrin Arsene, July 8, 2021 https://healthcareweekly.com/artificial-intelligence-in-healthcare/
 
-[6] Application of Artificial Intelligence in Healthcare: Chances and Challenges, Ravi Manne and Sneha C. Kantheti. Chemtex lab, 3082 25th St, Port Arthur, Texas, 77642, USA. 2Nemo IT Solutions Inc, Texas, USA https://www.researchgate.net/publication/351576322_Application_of_Artificial_Intelligence_in_Healthcare_Chances_and_Challenges
+[6] Artificial Intelligence in Healthcare: the future is amazing, Codrin Arsene, July 8, 2021 https://healthcareweekly.com/artificial-intelligence-in-healthcare/
+
+[7] Application of Artificial Intelligence in Healthcare: Chances and Challenges, Ravi Manne and Sneha C. Kantheti. Chemtex lab, 3082 25th St, Port Arthur, Texas, 77642, USA. 2Nemo IT Solutions Inc, Texas, USA https://www.researchgate.net/publication/351576322_Application_of_Artificial_Intelligence_in_Healthcare_Chances_and_Challenges
 
 Figure 1, Benefits of AI in medicine and healthcare  https://www2.deloitte.com/us/en/pages/life-sciences-and-health-care/articles/future-of-artificial-intelligence-in-health-care.html
 

@@ -38,7 +38,7 @@ Artificial intelligence has the potential to make drug discovery faster, cheaper
 AI has proven to be effective in improving healthcare and drug administration. However, concerns have been raised about the ethical and legal implications of introducing AI into healthcare. These concerns include the risk of bias, lack of clarity of some AI algorithms, data privacy issues used for training AI models and security issues in clinical settings and responsibility for implementing AI. There are some ethical issues facing AI clinical applications. These include security, effectiveness, confidentiality, information and consent, right to make decisions, etc. [4]
 
 
-# The Future of Artificial Intelligence in the Healthcare Sector:
+# The Future of Artificial Intelligence in the Healthcare Sector
 Across the artificial intelligence (AI) industry, the way we communicate, receive information and receive products and services is changing. In healthcare, AI is already changing patient experiences, how physicians practice medicine, and how the pharmaceutical industry operates. The future of artificial intelligence in healthcare can range from simple to complex, from answering the phone to reviewing medical records, population health trends and analysis, therapeutic drug and device design, radiology imaging, clinical diagnosis and treatment planning. , And even talk to patients. This will reduce the risk perceived by healthcare providers and quickly begin to provide measurable improvement in patient outcomes and large-scale operational efficiency.
 
 

@@ -18,7 +18,7 @@ The most regular role for AI in medical settings is clinical decision support an
 # Benefits of AI in medicine
  ![original](https://user-images.githubusercontent.com/95344808/152221695-6dcd0f67-3352-4d66-8adb-643b0299833b.jpg)
 
-Figure 1: Benefits of AI in medicine [1]
+**Figure 1: Benefits of AI in medicine [1]**
 
 The use of AI in medicine can be beneficial. There are obvious advantages to using technology in healthcare, such as improving patient management choices and outcomes, as well as potential secondary benefits such as lower referrals, lower costs and time savings. It can support health facilities in rural areas and promote recruitment and retention in rural areas. Some benefits of AI in medicine are described bellow [3]
 
@@ -45,9 +45,9 @@ Across the artificial intelligence (AI) industry, the way we communicate, receiv
 # History of AI and medicine
 ![1-s2 0-S0016510720344667-gr1](https://user-images.githubusercontent.com/95344808/152221714-bb781c77-2486-4563-bc1e-9ff6324d9e7a.jpg)
  
-Figure 2: History of AI with Medicine [2]
+**Figure 2: History of AI with Medicine [2]**
 
-Artificial Intelligence (AI) was first described in 1950; However, a number of limitations in early models hinder the widespread acceptance and application of the drug. In the early 2000's, the rise of deep learning overcame many of these limitations. Now that AI systems are capable of analyzing complex algorithms and self-learning, we have entered a new era in medicine where AI can be applied to clinical practice through risk assessment models, improving diagnostic accuracy and workflow efficiency. This article presents a brief historical perspective on the evolution of AI in the last few decades and the introduction and development of AI in medicine in recent years. A brief summary of the major applications of AI in gastroenterology and endoscopy is also presented, which will be reviewed in more detail in a few more articles in this issue of Gastrointestinal Endoscopy. [5]
+Artificial Intelligence (AI) was first described in 1950; Several limitations of the initial model hinder the widespread acceptance and application of the drug. In the early 2000's, the rise of deep learning overcame many of these limitations. Now that AI systems are capable of analyzing complex algorithms and self-learning, we have entered a new era in medicine where AI can be applied to clinical practice through risk assessment models, improving diagnostic accuracy and workflow efficiency. This article presents a brief historical perspective on the evolution of AI in the last few decades and the introduction and development of AI in medicine in recent years.[5]
 
 
 # Current limitations of AI in healthcare
@@ -67,7 +67,7 @@ Artificial Intelligence (AI) was first described in 1950; However, a number of l
 AI's commitment to the healthcare industry is evident in this literature. AI is on the way to becoming more effective on many levels, leading patients to better and faster results. Artificial intelligence, machine learning, assistance in deep learning surgery, early cancer diagnosis etc. can help us in proper care. There are a few things to consider when researching AI that are mentioned in this research paper. With recent advances in AI research and support and resources from the government, it is highly likely that the use of artificial intelligence in healthcare will increase significantly and there is huge potential for cost savings and improved quality of healthcare and medicine.
 
 
-
+<br>
 
 **Written by:**
 

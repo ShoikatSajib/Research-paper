@@ -1,4 +1,3 @@
- 
 ![Ub08994810_g](https://user-images.githubusercontent.com/95344808/152222061-c0e3663a-ac30-4d8e-a30e-7ccbaf617a29.jpg)
 
 # Reflection of AI in Medicine
